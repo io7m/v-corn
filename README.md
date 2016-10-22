@@ -23,56 +23,81 @@ Scene statistics
 ===
 
 ```
-Mesh: corn_kernel_duplicates_mesh
-  Polygons: 496
-
-Mesh: corn_kernel_single_vertex_mesh
-  Polygons: 112
+Mesh: hp_kernels_mesh
+  Polygons: 25200
   Textures:
 
-Mesh: corn_leaf_mesh.000
-  Polygons: 32
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaf_mesh.001
-  Polygons: 32
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaf_mesh.002
-  Polygons: 32
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaf_mesh.003
-  Polygons: 32
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaf_mesh.004
-  Polygons: 36
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaf_mesh.005
-  Polygons: 36
-  Textures:
-    Image: corn_leaf 2048x256
-
-Mesh: corn_leaves_outer_mesh
-  Polygons: 40
-  Textures:
-    Image: corn_leaves_outer 1024x512
-
-Mesh: corn_mesh
-  Polygons: 128
+Mesh: hp_kernels_mesh.001
+  Polygons: 25200
   Textures:
 
-Mesh: corn_stalk_mesh
-  Polygons: 40
+Mesh: hp_kernels_mesh.002
+  Polygons: 25200
   Textures:
-    Image: corn_stalk 512x512
+
+Mesh: hp_leaf_mesh.000
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.001
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.002
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.003
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.004
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.005
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.006
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
+
+Mesh: hp_leaf_mesh.007
+  Polygons: 6272
+  Textures:
+    Image: corn_leaf.png 512x512
+    Image: leaf_albedo 1024x256
+    Image: corn_leaf_bump.png 512x512
+    Image: corn_leaf_detail 512x512
 
 ```
 
