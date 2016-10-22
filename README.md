@@ -100,5 +100,19 @@ Mesh: hp_leaf_mesh.007
     Image: corn_leaf_bump.png 512x512
     Image: corn_leaf_detail 512x512
 
+Mesh: lp_no_leaves_joined_mesh
+  Polygons: 368
+  Textures:
+    Image: lp_corn_albedo 512x512
+    Image: lp_corn_ao 512x512
+    Image: lp_corn_normals 512x512
+
+Mesh: lp_with_leaves_joined_mesh
+  Polygons: 608
+  Textures:
+    Image: lp_corn_albedo 512x512
+    Image: lp_corn_ao 512x512
+    Image: lp_corn_normals 512x512
+
 ```
 
